@@ -1,6 +1,6 @@
 # ml_boosters_contest_ny
 
-Jupyter-блокнот основного решения соревнования `Happy Data Year` от Росбанка (платформа [Boosters.pro]).
+Решение соревнования `Happy Data Year` от Росбанка (платформа [Boosters.pro]).
 Решение заняло 48 место на Public LeaderBoard и 21 место на приватной доске.
 
 [Boosters.pro]:https://boosters.pro/champ_21

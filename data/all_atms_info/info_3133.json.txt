@@ -1,0 +1,1 @@
+[3133, 5534.0, ["Apartments on Bogdana Khmelnitskogo Belgorod", "Гостиница", [50.599571, 36.579416], "4", 91, []]]
